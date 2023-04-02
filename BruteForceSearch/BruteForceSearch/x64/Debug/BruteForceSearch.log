@@ -1,0 +1,3 @@
+﻿  BruteForceSearch.cpp
+C:\Users\Stanislav Ilchev\Desktop\BruteForceSearch\BruteForceSearch\BruteForceSearch.cpp(165,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BruteForceSearch.vcxproj -> C:\Users\Stanislav Ilchev\Desktop\BruteForceSearch\x64\Debug\BruteForceSearch.exe
